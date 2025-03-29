@@ -1,0 +1,13 @@
+2024-11-12 20:09:13,452 INFO processsing each element 1
+2024-11-12 20:09:13,452 INFO processsing each element hello
+2024-11-12 20:09:13,453 INFO processsing each element [2, 'world']
+2024-11-12 20:09:13,453 INFO proccessing sublist element: 2
+2024-11-12 20:09:13,453 INFO proccessing sublist element: world
+2024-11-12 20:09:13,453 INFO processsing each element 3
+2024-11-12 20:09:13,454 INFO processsing each element ['python', 4]
+2024-11-12 20:09:13,454 INFO proccessing sublist element: python
+2024-11-12 20:09:13,454 INFO proccessing sublist element: 4
+2024-11-12 20:09:13,454 INFO the final result is: [1, 2, 3, 4], ['hello']
+2024-11-12 21:18:14,497 ERROR No such comm target registered: jupyter.widget.control
+2024-11-12 21:18:14,515 WARNING No such comm: b5b3e26b-146e-4ad6-a704-a0ca918c8095
+2024-11-12 21:18:14,517 DEBUG Current comms: []
